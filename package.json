@@ -1,0 +1,21 @@
+{
+  "name": "cs-code-gen",
+  "version": "0.0.48",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cs-gen-wh": "bin/commit.js",
+    "cs-gen-last-row-len": "bin/commit2.js",
+    "cs-gen-random-list": "bin/commit3.js",
+    "cs-get-random-filled-div": "bin/commit4.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "patch-release": "npm version patch && npm publish"
+  },
+  "dependencies": {
+    "commander": "*"
+  },
+  "author": "taslimR",
+  "license": "ISC"
+}
