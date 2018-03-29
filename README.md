@@ -2,7 +2,7 @@
 
 You can find the full description of the problem in this link - https://bit.ly/2G8uDNM.
 
-.. image:: https://preview.ibb.co/k1CVkS/Screenshot_from_2018_03_29_19_09_11.png
+![Alt text](https://preview.ibb.co/k1CVkS/Screenshot_from_2018_03_29_19_09_11.png?raw=true "Title") 
 
 # Detail Specification
 
